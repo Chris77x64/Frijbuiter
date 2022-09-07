@@ -1,0 +1,89 @@
+
+Fleute.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+FleuteSinkenVorne_43x1
+  rotate: false
+  xy: 1, 1426
+  size: 5891, 203
+  orig: 5891, 211
+  offset: 0, 0
+  index: -1
+FleuteSinkenHinten_43x1
+  rotate: false
+  xy: 1, 1222
+  size: 5805, 202
+  orig: 5805, 211
+  offset: 0, 0
+  index: -1
+FleuteSinkenLinks_35x1
+  rotate: false
+  xy: 1, 1009
+  size: 4795, 211
+  orig: 4795, 211
+  offset: 0, 0
+  index: -1
+FleuteSinkenRechts_35x1
+  rotate: false
+  xy: 1, 796
+  size: 4795, 211
+  orig: 4795, 211
+  offset: 0, 0
+  index: -1
+FleuteBrennenVorne_23x1
+  rotate: false
+  xy: 1, 583
+  size: 2714, 211
+  orig: 2714, 211
+  offset: 0, 0
+  index: -1
+FleuteBrennenLinks_21x1
+  rotate: false
+  xy: 1, 370
+  size: 2709, 211
+  orig: 2709, 211
+  offset: 0, 0
+  index: -1
+FleuteBrennenHinten_21x1
+  rotate: false
+  xy: 1, 157
+  size: 2646, 211
+  orig: 2646, 211
+  offset: 0, 0
+  index: -1
+FleuteBewegungRechts_20x1
+  rotate: false
+  xy: 2717, 589
+  size: 2580, 205
+  orig: 2580, 205
+  offset: 0, 0
+  index: -1
+FleuteBewegungLinks_20x1
+  rotate: false
+  xy: 2717, 384
+  size: 2620, 203
+  orig: 2620, 203
+  offset: 0, 0
+  index: -1
+FleuteBrennenRechts_20x1
+  rotate: false
+  xy: 2712, 206
+  size: 2680, 176
+  orig: 2680, 202
+  offset: 0, 0
+  index: -1
+FleuteBewegungVorne_20x1
+  rotate: false
+  xy: 2649, 1
+  size: 2580, 203
+  orig: 2580, 203
+  offset: 0, 0
+  index: -1
+FleuteBewegungHinten_20x1
+  rotate: false
+  xy: 1, 44
+  size: 1420, 111
+  orig: 1420, 111
+  offset: 0, 0
+  index: -1

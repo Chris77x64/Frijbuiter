@@ -1,0 +1,89 @@
+
+ESPGaleone.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+ESPGaleoneHinten_20x1
+  rotate: false
+  xy: 1, 1886
+  size: 2640, 202
+  orig: 2640, 202
+  offset: 0, 0
+  index: -1
+ESPGaleoneVorne_20x1
+  rotate: false
+  xy: 1, 1681
+  size: 2620, 203
+  orig: 2620, 203
+  offset: 0, 0
+  index: -1
+ESPGaleoneLinks_20x1
+  rotate: false
+  xy: 1, 1479
+  size: 2600, 200
+  orig: 2600, 200
+  offset: 0, 0
+  index: -1
+ESPGaleoneRechts_20x1
+  rotate: false
+  xy: 1, 1279
+  size: 2600, 198
+  orig: 2600, 198
+  offset: 0, 0
+  index: -1
+ESPGaleoneSinkendLinks_15x1
+  rotate: false
+  xy: 1, 1066
+  size: 2055, 211
+  orig: 2055, 211
+  offset: 0, 0
+  index: -1
+ESPGaleoneSinkendVorne_15x1
+  rotate: false
+  xy: 1, 853
+  size: 2055, 211
+  orig: 2055, 211
+  offset: 0, 0
+  index: -1
+ESPGaleoneSinkendRechts_15x1
+  rotate: false
+  xy: 1, 640
+  size: 1995, 211
+  orig: 1995, 211
+  offset: 0, 0
+  index: -1
+ESPGaleoneSinkendHinten_15x1
+  rotate: false
+  xy: 1, 427
+  size: 1965, 211
+  orig: 1965, 211
+  offset: 0, 0
+  index: -1
+ESPGaleoneBrennendHinten_10x1
+  rotate: false
+  xy: 1, 214
+  size: 1370, 211
+  orig: 1370, 211
+  offset: 0, 0
+  index: -1
+ESPGaleoneBrennendVorne_10x1
+  rotate: false
+  xy: 1, 1
+  size: 1370, 211
+  orig: 1370, 211
+  offset: 0, 0
+  index: -1
+ESPGaleoneBrennendRechts_10x1
+  rotate: false
+  xy: 1373, 215
+  size: 1370, 210
+  orig: 1370, 210
+  offset: 0, 0
+  index: -1
+ESPGaleoneBrennendLinks_10x1
+  rotate: false
+  xy: 1373, 5
+  size: 1370, 208
+  orig: 1370, 208
+  offset: 0, 0
+  index: -1

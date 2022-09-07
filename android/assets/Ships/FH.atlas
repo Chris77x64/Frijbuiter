@@ -1,0 +1,61 @@
+
+FH.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+FHVorne_20x1
+  rotate: false
+  xy: 1, 1008
+  size: 2620, 206
+  orig: 2620, 206
+  offset: 0, 0
+  index: -1
+FHHinten_20x1
+  rotate: false
+  xy: 1, 804
+  size: 2600, 202
+  orig: 2600, 202
+  offset: 0, 0
+  index: -1
+FHLinks_20x1
+  rotate: false
+  xy: 1, 614
+  size: 2560, 188
+  orig: 2560, 188
+  offset: 0, 0
+  index: -1
+FHRechts_20x1
+  rotate: false
+  xy: 1, 424
+  size: 2540, 188
+  orig: 2540, 188
+  offset: 0, 0
+  index: -1
+FhBrennendVorne_10x1
+  rotate: false
+  xy: 1, 211
+  size: 1370, 211
+  orig: 1370, 211
+  offset: 0, 0
+  index: -1
+FHBrennendLinks_10x1
+  rotate: false
+  xy: 1, 1
+  size: 1310, 208
+  orig: 1310, 208
+  offset: 0, 0
+  index: -1
+FHBrennendHinten_10x1
+  rotate: false
+  xy: 1373, 212
+  size: 1320, 210
+  orig: 1320, 210
+  offset: 0, 0
+  index: -1
+FHBrennendRechts_10x1
+  rotate: false
+  xy: 1373, 3
+  size: 1310, 207
+  orig: 1310, 207
+  offset: 0, 0
+  index: -1

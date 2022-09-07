@@ -1,0 +1,89 @@
+
+ESPFleute.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+ESPFleuteBurningLinks_20x1
+  rotate: false
+  xy: 1, 2303
+  size: 2740, 211
+  orig: 2740, 211
+  offset: 0, 0
+  index: -1
+ESPFleuteBurningRechts_20x1
+  rotate: false
+  xy: 1, 2090
+  size: 2740, 211
+  orig: 2740, 211
+  offset: 0, 0
+  index: -1
+ESPFleuteBurningVorne_20x1
+  rotate: false
+  xy: 1, 1877
+  size: 2740, 211
+  orig: 2740, 211
+  offset: 0, 0
+  index: -1
+ESPFleuteSinkendLinks_20x1
+  rotate: false
+  xy: 1, 1664
+  size: 2740, 211
+  orig: 2740, 211
+  offset: 0, 0
+  index: -1
+ESPFleuteSinkendRechts_20x1
+  rotate: false
+  xy: 1, 1451
+  size: 2740, 211
+  orig: 2740, 211
+  offset: 0, 0
+  index: -1
+ESPFleuteSinkendVorne_20x1
+  rotate: false
+  xy: 1, 1238
+  size: 2740, 211
+  orig: 2740, 211
+  offset: 0, 0
+  index: -1
+ESPFleuteBurningHinten_24x1
+  rotate: false
+  xy: 1, 1032
+  size: 2712, 204
+  orig: 2712, 204
+  offset: 0, 0
+  index: -1
+ESPFleuteSinkendHinten_21x1
+  rotate: false
+  xy: 1, 819
+  size: 2688, 211
+  orig: 2688, 211
+  offset: 0, 0
+  index: -1
+ESPFleuteLinks_20x1
+  rotate: false
+  xy: 1, 614
+  size: 2600, 203
+  orig: 2600, 203
+  offset: 0, 0
+  index: -1
+ESPFleuteRechts_20x1
+  rotate: false
+  xy: 1, 409
+  size: 2580, 203
+  orig: 2580, 203
+  offset: 0, 0
+  index: -1
+ESPFleuteVorne_20x1
+  rotate: false
+  xy: 1, 206
+  size: 2580, 201
+  orig: 2580, 201
+  offset: 0, 0
+  index: -1
+ESPFleuteHinten_20x1
+  rotate: false
+  xy: 1, 1
+  size: 2520, 203
+  orig: 2520, 203
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,66 @@
+
+ships_movement.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bewegung_hinten_esp
+  rotate: false
+  xy: 1, 670
+  size: 685, 221
+  orig: 685, 221
+  offset: 0, 0
+  index: -1
+bewegung_links_esp
+  rotate: false
+  xy: 1, 447
+  size: 685, 221
+  orig: 685, 221
+  offset: 0, 0
+  index: -1
+bewegung_rechts_esp
+  rotate: false
+  xy: 1, 224
+  size: 685, 221
+  orig: 685, 221
+  offset: 0, 0
+  index: -1
+bewegung_vorne_esp
+  rotate: false
+  xy: 1, 1
+  size: 685, 221
+  orig: 685, 221
+  offset: 0, 0
+  index: -1
+
+ships_movement2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+schiff_bewegung_hinten
+  rotate: false
+  xy: 1, 670
+  size: 685, 221
+  orig: 685, 221
+  offset: 0, 0
+  index: -1
+schiff_bewegung_links
+  rotate: false
+  xy: 1, 447
+  size: 685, 221
+  orig: 685, 221
+  offset: 0, 0
+  index: -1
+schiff_bewegung_rechts
+  rotate: false
+  xy: 1, 224
+  size: 685, 221
+  orig: 685, 221
+  offset: 0, 0
+  index: -1
+schiff_bewegung_vorne
+  rotate: false
+  xy: 1, 1
+  size: 685, 221
+  orig: 685, 221
+  offset: 0, 0
+  index: -1

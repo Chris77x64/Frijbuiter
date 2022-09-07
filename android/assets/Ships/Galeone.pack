@@ -1,0 +1,89 @@
+
+Galeone.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+GaleoneRechts_20x1
+  rotate: false
+  xy: 1, 429
+  size: 2660, 201
+  orig: 2660, 201
+  offset: 0, 0
+  index: -1
+GaleoneLinks_20x1
+  rotate: false
+  xy: 2663, 428
+  size: 2640, 202
+  orig: 2640, 202
+  offset: 0, 0
+  index: -1
+GaleoneHinten_20x1
+  rotate: false
+  xy: 5305, 427
+  size: 2680, 203
+  orig: 2680, 203
+  offset: 0, 0
+  index: -1
+GaleoneVorne_20x1
+  rotate: false
+  xy: 1, 221
+  size: 2640, 206
+  orig: 2640, 206
+  offset: 0, 0
+  index: -1
+GaleoneBrennendRechts_10x1
+  rotate: false
+  xy: 2643, 217
+  size: 1370, 209
+  orig: 1370, 209
+  offset: 0, 0
+  index: -1
+GaleoneBrennendHinten_10x1
+  rotate: false
+  xy: 4015, 214
+  size: 1370, 211
+  orig: 1370, 211
+  offset: 0, 0
+  index: -1
+GaleoneBrennendLinks_10x1
+  rotate: false
+  xy: 5387, 214
+  size: 1370, 211
+  orig: 1370, 211
+  offset: 0, 0
+  index: -1
+GaleoneBrennendVorne_10x1
+  rotate: false
+  xy: 6759, 214
+  size: 1370, 211
+  orig: 1370, 211
+  offset: 0, 0
+  index: -1
+GaleoneSinkendHinten_15x1
+  rotate: false
+  xy: 1, 8
+  size: 1965, 211
+  orig: 1965, 211
+  offset: 0, 0
+  index: -1
+GaleoneSinkendRechts_15x1
+  rotate: false
+  xy: 1968, 4
+  size: 1995, 211
+  orig: 1995, 211
+  offset: 0, 0
+  index: -1
+GaleoneSinkendLinks_15x1
+  rotate: false
+  xy: 3965, 1
+  size: 2055, 211
+  orig: 2055, 211
+  offset: 0, 0
+  index: -1
+GaleoneSinkendVorne_15x1
+  rotate: false
+  xy: 6022, 1
+  size: 2055, 211
+  orig: 2055, 211
+  offset: 0, 0
+  index: -1

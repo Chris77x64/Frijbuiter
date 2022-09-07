@@ -1,0 +1,89 @@
+
+Buese.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BueseBrennendLinks_20x1
+  rotate: false
+  xy: 1, 2304
+  size: 2740, 211
+  orig: 2740, 211
+  offset: 0, 0
+  index: -1
+BueseBrennendRechts_20x1
+  rotate: false
+  xy: 1, 2091
+  size: 2740, 211
+  orig: 2740, 211
+  offset: 0, 0
+  index: -1
+BuesesBrennendHinten_20x1
+  rotate: false
+  xy: 1, 1878
+  size: 2740, 211
+  orig: 2740, 211
+  offset: 0, 0
+  index: -1
+BueseRechts_20x1
+  rotate: false
+  xy: 1, 1678
+  size: 2540, 198
+  orig: 2540, 198
+  offset: 0, 0
+  index: -1
+BueseLinks_20x1
+  rotate: false
+  xy: 1, 1476
+  size: 2520, 200
+  orig: 2520, 200
+  offset: 0, 0
+  index: -1
+BueseHinten_20x1
+  rotate: false
+  xy: 1, 1268
+  size: 2480, 206
+  orig: 2480, 206
+  offset: 0, 0
+  index: -1
+BueseVorne_20x1
+  rotate: false
+  xy: 1, 1060
+  size: 2300, 206
+  orig: 2300, 206
+  offset: 0, 0
+  index: -1
+BuesePerishLeft_15x1
+  rotate: false
+  xy: 1, 847
+  size: 2055, 211
+  orig: 2055, 211
+  offset: 0, 0
+  index: -1
+BuesePerishRight_15x1
+  rotate: false
+  xy: 1, 634
+  size: 1995, 211
+  orig: 1995, 211
+  offset: 0, 0
+  index: -1
+BueseBrennendVorne_20x1
+  rotate: false
+  xy: 1, 427
+  size: 1980, 205
+  orig: 1980, 205
+  offset: 0, 0
+  index: -1
+BuesePerishBackwards_15x1
+  rotate: false
+  xy: 1, 214
+  size: 1890, 211
+  orig: 1890, 211
+  offset: 0, 0
+  index: -1
+BuesePerishForward_15x1
+  rotate: false
+  xy: 1, 1
+  size: 1890, 211
+  orig: 1890, 211
+  offset: 0, 0
+  index: -1

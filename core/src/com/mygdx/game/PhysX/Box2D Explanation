@@ -1,0 +1,19 @@
+In our game world we have different layers:
+a) Background Layer
+b) Objects Layer (Polygon/Rectangular squares for collision detection)
+
+Box2D locates these rectangles and puts it in a physics world, so
+our ship can actually collide with them
+
+Structure of Box2D:
+wolrd ( everything inside of it is affected by physics )
+    bodies
+        mass
+        velocity
+        location
+        angles
+        fixtures (phyiscal attributes of bodies )
+            shape
+            density
+            friction
+            restitution
